@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  background-color: #333;
+
+  .nav-wrapper {
+    display: flex;
+    list-style: none;
+
+    li {
+      margin: 0 1rem;
+
+      a {
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+}
