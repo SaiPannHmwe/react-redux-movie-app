@@ -1,0 +1,12 @@
+{
+  "display": "standalone",
+  "name": "movie",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "short_name": "movie",
+  "id": "2",
+  "description": "app for movie",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait"
+}
